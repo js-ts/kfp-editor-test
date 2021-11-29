@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/pipeline-editor/static/css/main.30d3fd3d.chunk.css",
-    "main.js": "/pipeline-editor/static/js/main.45cd81d0.chunk.js",
-    "main.js.map": "/pipeline-editor/static/js/main.45cd81d0.chunk.js.map",
-    "runtime-main.js": "/pipeline-editor/static/js/runtime-main.c6033a95.js",
-    "runtime-main.js.map": "/pipeline-editor/static/js/runtime-main.c6033a95.js.map",
-    "static/js/2.82682af7.chunk.js": "/pipeline-editor/static/js/2.82682af7.chunk.js",
-    "static/js/2.82682af7.chunk.js.map": "/pipeline-editor/static/js/2.82682af7.chunk.js.map",
-    "static/js/3.e0a741a5.chunk.js": "/pipeline-editor/static/js/3.e0a741a5.chunk.js",
-    "static/js/3.e0a741a5.chunk.js.map": "/pipeline-editor/static/js/3.e0a741a5.chunk.js.map",
-    "index.html": "/pipeline-editor/index.html",
-    "service-worker.js": "/pipeline-editor/service-worker.js",
-    "service-worker.js.map": "/pipeline-editor/service-worker.js.map",
-    "static/css/main.30d3fd3d.chunk.css.map": "/pipeline-editor/static/css/main.30d3fd3d.chunk.css.map",
-    "static/js/2.82682af7.chunk.js.LICENSE.txt": "/pipeline-editor/static/js/2.82682af7.chunk.js.LICENSE.txt",
-    "static/js/main.45cd81d0.chunk.js.LICENSE.txt": "/pipeline-editor/static/js/main.45cd81d0.chunk.js.LICENSE.txt"
+    "main.css": "/kfp-editor-test/static/css/main.30d3fd3d.chunk.css",
+    "main.js": "/kfp-editor-test/static/js/main.6153304a.chunk.js",
+    "main.js.map": "/kfp-editor-test/static/js/main.6153304a.chunk.js.map",
+    "runtime-main.js": "/kfp-editor-test/static/js/runtime-main.8425dc19.js",
+    "runtime-main.js.map": "/kfp-editor-test/static/js/runtime-main.8425dc19.js.map",
+    "static/js/2.82682af7.chunk.js": "/kfp-editor-test/static/js/2.82682af7.chunk.js",
+    "static/js/2.82682af7.chunk.js.map": "/kfp-editor-test/static/js/2.82682af7.chunk.js.map",
+    "static/js/3.e0a741a5.chunk.js": "/kfp-editor-test/static/js/3.e0a741a5.chunk.js",
+    "static/js/3.e0a741a5.chunk.js.map": "/kfp-editor-test/static/js/3.e0a741a5.chunk.js.map",
+    "index.html": "/kfp-editor-test/index.html",
+    "service-worker.js": "/kfp-editor-test/service-worker.js",
+    "service-worker.js.map": "/kfp-editor-test/service-worker.js.map",
+    "static/css/main.30d3fd3d.chunk.css.map": "/kfp-editor-test/static/css/main.30d3fd3d.chunk.css.map",
+    "static/js/2.82682af7.chunk.js.LICENSE.txt": "/kfp-editor-test/static/js/2.82682af7.chunk.js.LICENSE.txt",
+    "static/js/main.6153304a.chunk.js.LICENSE.txt": "/kfp-editor-test/static/js/main.6153304a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6033a95.js",
+    "static/js/runtime-main.8425dc19.js",
     "static/js/2.82682af7.chunk.js",
     "static/css/main.30d3fd3d.chunk.css",
-    "static/js/main.45cd81d0.chunk.js"
+    "static/js/main.6153304a.chunk.js"
   ]
 }
